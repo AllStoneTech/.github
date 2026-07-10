@@ -37,10 +37,6 @@ outcomes, not just hours.
 ---
 
 ## 📁 In This Org
-Our public repositories are architecture case studies and documented 
-engagement patterns — not source code. We work spec-first and 
-document our thinking. That's what you'll find here.
-
 Our public repositories are architecture case studies, documented 
 engagement patterns, and selected open-source tools that demonstrate 
 how we build. Most client development is private. 
