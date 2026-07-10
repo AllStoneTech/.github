@@ -26,6 +26,7 @@ outcomes, not just hours.
 ---
 
 ## 🔭 Currently Building
+- **JobSearch-OS** — a public agentic and python OS to manage your job search
 - **DigiCard** — a branded digital business card system built for 
   professionals and small businesses
 - **Downtown Event Intelligence** — a hyperlocal event data platform 
@@ -39,6 +40,12 @@ outcomes, not just hours.
 Our public repositories are architecture case studies and documented 
 engagement patterns — not source code. We work spec-first and 
 document our thinking. That's what you'll find here.
+
+Our public repositories are architecture case studies, documented 
+engagement patterns, and selected open-source tools that demonstrate 
+how we build. Most client development is private. 
+
+We work spec-first and document our thinking. That's what you'll find here.
 
 Most active development is private. If you're a client, partner, 
 or collaborator — reach out.
