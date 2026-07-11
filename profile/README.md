@@ -26,7 +26,8 @@ outcomes, not just hours.
 ---
 
 ## 🔭 Currently Building
-- **JobSearch-OS** — a public agentic and python OS to manage your job search
+- **JobSearch-OS** — an open-source agentic job search system: 
+  Python decides what's worth your attention, AI drafts, you approve.
 - **DigiCard** — a branded digital business card system built for 
   professionals and small businesses
 - **Downtown Event Intelligence** — a hyperlocal event data platform 
